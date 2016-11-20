@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+- a git repo is created, but nothing is committed yet
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- the staging area is an intermediate place between working dir and repo 
+- the staging area lets me add different files from my working dir to the repo
+- therefore it gives me more control over commmits
+
