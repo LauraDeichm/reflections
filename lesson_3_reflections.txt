@@ -5,3 +5,7 @@ Why might you want to always pull changes manually rather than having Git automa
 - because I want to decide when to incorporate changes (potentially from other collaborators)
 - the changes might interfere with my own changes, leading to merge conflict
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+- fork: a GitHub repo that was copied from another repo on GitHub
+- clone: a repo on my local machine that was copied from GitHub OR a repo on my local machine that was copied from another repo on my local machine
+- branch: two (or more) paths within a repo on my local machine 
